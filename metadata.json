@@ -1,0 +1,6 @@
+{
+  "name": "TDI Déménagement - Devis en Ligne Intelligent",
+  "description": "Calculateur de volume, devis immédiat et réservation de déménagement pour particuliers et entreprises par TDI Déménagement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
